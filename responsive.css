@@ -1,0 +1,33 @@
+@media screen and (max-width: 600px) {
+ nav > .navlinks{
+    display: none;
+   }  
+  .container_two > h1{
+font-size: 28px;
+text-align: center ;
+margin-right: 50%;
+ }
+ .container_two > h2{
+    font-size: 28px;
+    text-align: center ;
+    margin-right: 15%;
+     }
+     .imgcontainer{
+        width: 500px;
+        background-position: center
+    }
+    .imgcontainer .overlay > h1{
+      font-size: 20px;
+    }
+    .imgcontainer .overlay > h2{
+      font-size: 15px;
+    }
+    .container_three .content > h1{
+      margin-right: 20%;
+    }
+    
+
+
+
+
+}
